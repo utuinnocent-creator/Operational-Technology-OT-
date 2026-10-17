@@ -1,6 +1,6 @@
 # Passive OT/SCADA Network Monitor
 
-## ⚠️ Critical Safety Warning
+##  Critical Safety Warning
 **This tool is designed for PASSIVE monitoring only.**  
 It operates in a "listen-only" mode to ensure zero impact on Operational Technology (OT) and Industrial Control Systems (ICS). However, always verify local policies and obtain explicit authorization before connecting any monitoring device to a live SCADA network. Unauthorized monitoring of critical infrastructure may violate federal regulations or company policy.
 
